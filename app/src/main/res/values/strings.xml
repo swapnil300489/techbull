@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TechBull</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="release_date">Release Date</string>
+</resources>
